@@ -1,0 +1,4 @@
+* TODO 分析查看明信询比价模块的设计方案；
+* TODO 修改chrome的https协议浏览google相关网站服务；
+* DONE 跟踪问题：供应商提交审批失败;
+* 安装ruby 
